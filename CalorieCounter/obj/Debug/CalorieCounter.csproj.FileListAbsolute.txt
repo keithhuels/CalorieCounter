@@ -1,0 +1,10 @@
+C:\Users\keith\source\repos\CalorieCounter\CalorieCounter\bin\Debug\CalorieCounter.exe.config
+C:\Users\keith\source\repos\CalorieCounter\CalorieCounter\bin\Debug\CalorieCounter.exe
+C:\Users\keith\source\repos\CalorieCounter\CalorieCounter\bin\Debug\CalorieCounter.pdb
+C:\Users\keith\source\repos\CalorieCounter\CalorieCounter\obj\Debug\CalorieCounter.csprojAssemblyReference.cache
+C:\Users\keith\source\repos\CalorieCounter\CalorieCounter\obj\Debug\CalorieCounter.CalorieCounter.resources
+C:\Users\keith\source\repos\CalorieCounter\CalorieCounter\obj\Debug\CalorieCounter.Properties.Resources.resources
+C:\Users\keith\source\repos\CalorieCounter\CalorieCounter\obj\Debug\CalorieCounter.csproj.GenerateResource.cache
+C:\Users\keith\source\repos\CalorieCounter\CalorieCounter\obj\Debug\CalorieCounter.csproj.CoreCompileInputs.cache
+C:\Users\keith\source\repos\CalorieCounter\CalorieCounter\obj\Debug\CalorieCounter.exe
+C:\Users\keith\source\repos\CalorieCounter\CalorieCounter\obj\Debug\CalorieCounter.pdb
